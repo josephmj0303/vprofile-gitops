@@ -6,7 +6,7 @@ metadata:
 spec:
   description: vProfile application project
   sourceRepos:
-    - git@github.com:<GithubAccountName>/vprofile-helm.git
+    - git@github.com:josephmj0303/vprofile-gitops.git
   destinations:
     - namespace: vprofile
       server: https://kubernetes.default.svc
