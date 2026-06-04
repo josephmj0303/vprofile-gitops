@@ -10,7 +10,7 @@ spec:
   source:
     repoURL: git@github.com:josephmj0303/vprofile-gitops.git
     targetRevision: main
-    path: helm/vprofile-chart
+    path: helm/vprofile
     helm:
       valueFiles:
         - values.yaml
