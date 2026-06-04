@@ -32,7 +32,7 @@ initcontainers:
     - -c
 ingress:
   enabled: true
-  host: vprofile.example.com
+  host: vprofile.joedevopslab.xyz
   servicePort: 8080
 secrets:
   dbPassword: vprodbpass
