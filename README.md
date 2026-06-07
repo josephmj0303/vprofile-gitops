@@ -100,19 +100,6 @@ ArgoCD continuously monitors this repository and automatically synchronizes chan
 
 ---
 
-## 🖥️ Related Repositories
-
-| Repository            | Purpose                         |
-| --------------------- | ------------------------------- |
-| vprofile-app          | Application Source Code & CI/CD |
-| vprofile-gitops-infra | Terraform Infrastructure        |
-
-Main Project:
-
-https://github.com/josephmj0303/vprofile-app
-
----
-
 ## 📊 Results
 
 * GitOps-based application delivery
