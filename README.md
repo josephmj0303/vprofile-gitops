@@ -9,6 +9,18 @@
 GitOps repository containing Helm charts and Kubernetes deployment manifests continuously synchronized to AWS EKS using ArgoCD.
 
 ---
+## 📂 Related Repositories
+
+| Repository      | Purpose                            |
+| --------------- | ---------------------------------- |
+| [vprofile-app](https://github.com/josephmj0303/vprofile-app)   | Application Source Code & CI/CD    |
+| [vprofile-gitops-infra](https://github.com/josephmj0303/vprofile-gitops-infra)  | Terraform infrastructure and EKS provisioning |
+
+Main Project:
+
+[vprofile-app](https://github.com/josephmj0303/vprofile-app)
+
+---
 
 ## 🚀 Architecture
 
