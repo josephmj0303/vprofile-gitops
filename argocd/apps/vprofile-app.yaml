@@ -25,3 +25,4 @@ spec:
       - CreateNamespace=true
       - ServerSideApply=true
 
+# feat: implement ArgoCD GitOps deployment workflow
